@@ -1,0 +1,1 @@
+# Hollow_Left_Half_Pyramid
